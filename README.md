@@ -2,7 +2,7 @@
 # AIMS AND OBJECTIVE
 The aim of this project was to analyze a dataset containing data on Industry layoffs from 2020-2023 using MySQL
 
-# KEY FINDINGS AND INSIGHTS
+#  SOME KEY FINDINGS AND INSIGHTS
 # Rolling total sum of people laid off for the entire duration of the dataset
 <img width="473" height="404" alt="image" src="https://github.com/user-attachments/assets/c6d999f7-a167-498a-9832-7d6565705f23" />
 
